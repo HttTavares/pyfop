@@ -1,0 +1,19 @@
+{
+    "Population":{
+        "Laborers":{
+            "Free": 100,
+            "Occupied": 0
+        },
+        "Consumption": {
+            "Base": {
+                "Fruit":0.008,
+                "Vegetables":0.007,
+                "Seeds":0.005,
+                "Meat":0.001,
+                "Cereal":0.001,
+                "Root":0.001,
+                "Wood":0.001
+            }
+        }
+    }
+}

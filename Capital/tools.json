@@ -1,0 +1,813 @@
+{
+    "Tools": [
+        {
+            "Name": "No Tool",
+            "Base Upgrade": {
+                "Level": 1,
+                "Cost" : 1
+            },
+            "Base Cost": {
+            },
+            "Base Effect": {
+                "Input": 0,
+                "Output": 0
+            },
+            "Production Points": 0,
+            "Models": {
+                "No Model": {
+                    "Extra Cost": {
+                        "Wood": 0
+                    },
+                    "Quantity": 0,
+                    "Durability": 99999999,
+                    "Extra Effect": {
+                        "Input": -0.00,
+                        "Output": 0.00
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                }
+            }
+        },
+
+
+        {
+            "Name": "Spear",
+            "Base Upgrade": {
+                "Level": 1,
+                "Cost": 1
+            },
+            "Base Cost": {
+                "Wood": 2.4
+            },
+            "Base Effect": {
+                "Input": -0.05,
+                "Output": 0.05
+            },
+            "Production Points": 0,
+            "Requirements": {
+                "Wood": 10
+            },
+            "Models": {
+                "Bone": {
+                    "Extra Cost": {
+                        "Bone": 3.1
+                    },
+                    "Quantity": 0,
+                    "Durability": 200,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Wood": {
+                    "Extra Cost": {
+                        "Wood": 3.9
+                    },
+                    "Quantity": 0,
+                    "Durability": 4,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Stone": {
+                    "Extra Cost": {
+                        "Stone": 5.0
+                    },
+                    "Quantity": 0,
+                    "Durability": 5,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Bronze": {
+                    "Extra Cost": {
+                        "Bronze": 6.3
+                    },
+                    "Quantity": 0,
+                    "Durability": 6,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Iron": {
+                    "Extra Cost": {
+                        "Iron": 7.4
+                    },
+                    "Quantity": 0,
+                    "Durability": 7,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                }
+            }
+        },
+
+        
+        {
+            "Name": "Axe",
+            "Base Upgrade": {
+                "Level": 1,
+                "Cost": 1
+            },
+            "Base Cost": {
+                "Wood": 2.4
+            },
+            "Base Effect": {
+                "Input": -0.05,
+                "Output": 0.05
+            },
+            "Production Points": 0,
+            "Requirements": {
+                "Wood": 10
+            },
+            "Models": {
+                "Bone": {
+                    "Extra Cost": {
+                        "Bone": 3.1
+                    },
+                    "Quantity": 0,
+                    "Durability": 200,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Wood": {
+                    "Extra Cost": {
+                        "Wood": 3.9
+                    },
+                    "Quantity": 0,
+                    "Durability": 4,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Stone": {
+                    "Extra Cost": {
+                        "Stone": 5.0
+                    },
+                    "Quantity": 0,
+                    "Durability": 5,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Bronze": {
+                    "Extra Cost": {
+                        "Bronze": 6.3
+                    },
+                    "Quantity": 0,
+                    "Durability": 6,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Iron": {
+                    "Extra Cost": {
+                        "Iron": 7.4
+                    },
+                    "Quantity": 0,
+                    "Durability": 7,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                }
+            }
+        },            
+
+
+        {
+            "Name": "Pickaxe",
+            "Base Upgrade": {
+                "Level": 1,
+                "Cost": 1
+            },
+            "Base Cost": {
+                "Wood": 2.4
+            },
+            "Base Effect": {
+                "Input": -0.05,
+                "Output": 0.05
+            },
+            "Production Points": 0,
+            "Requirements": {
+                "Wood": 10
+            },
+            "Models": {
+                "Bone": {
+                    "Extra Cost": {
+                        "Bone": 3.1
+                    },
+                    "Quantity": 0,
+                    "Durability": 200,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Wood": {
+                    "Extra Cost": {
+                        "Wood": 3.9
+                    },
+                    "Quantity": 0,
+                    "Durability": 4,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Stone": {
+                    "Extra Cost": {
+                        "Stone": 5.0
+                    },
+                    "Quantity": 0,
+                    "Durability": 5,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Bronze": {
+                    "Extra Cost": {
+                        "Bronze": 6.3
+                    },
+                    "Quantity": 0,
+                    "Durability": 6,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Iron": {
+                    "Extra Cost": {
+                        "Iron": 7.4
+                    },
+                    "Quantity": 0,
+                    "Durability": 7,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                }
+            }
+        },            
+
+        {
+            "Name": "Dunno Lol",
+            "Base Upgrade": {
+                "Level": 1,
+                "Cost": 1
+            },
+            "Base Cost": {
+                "Wood": 2.4
+            },
+            "Base Effect": {
+                "Input": -0.05,
+                "Output": 0.05
+            },
+            "Production Points": 0,
+            "Requirements": {
+                "Wood": 10
+            },
+            "Models": {
+                "Bone": {
+                    "Extra Cost": {
+                        "Bone": 3.1
+                    },
+                    "Quantity": 0,
+                    "Durability": 200,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Wood": {
+                    "Extra Cost": {
+                        "Wood": 3.9
+                    },
+                    "Quantity": 0,
+                    "Durability": 4,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Stone": {
+                    "Extra Cost": {
+                        "Stone": 5.0
+                    },
+                    "Quantity": 0,
+                    "Durability": 5,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Bronze": {
+                    "Extra Cost": {
+                        "Bronze": 6.3
+                    },
+                    "Quantity": 0,
+                    "Durability": 6,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Iron": {
+                    "Extra Cost": {
+                        "Iron": 7.4
+                    },
+                    "Quantity": 0,
+                    "Durability": 7,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                }
+            }
+        },
+
+        
+        {
+            "Name": "Sickle",
+            "Base Upgrade": {
+                "Level": 1,
+                "Cost": 1
+            },
+            "Base Cost": {
+                "Wood": 2.4
+            },
+            "Base Effect": {
+                "Input": -0.05,
+                "Output": 0.05
+            },
+            "Production Points": 0,
+            "Requirements": {
+                "Wood": 10
+            },
+            "Models": {
+                "Bone": {
+                    "Extra Cost": {
+                        "Bone": 3.1
+                    },
+                    "Quantity": 0,
+                    "Durability": 200,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Wood": {
+                    "Extra Cost": {
+                        "Wood": 3.9
+                    },
+                    "Quantity": 0,
+                    "Durability": 4,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Stone": {
+                    "Extra Cost": {
+                        "Stone": 5.0
+                    },
+                    "Quantity": 0,
+                    "Durability": 5,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Bronze": {
+                    "Extra Cost": {
+                        "Bronze": 6.3
+                    },
+                    "Quantity": 0,
+                    "Durability": 6,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Iron": {
+                    "Extra Cost": {
+                        "Iron": 7.4
+                    },
+                    "Quantity": 0,
+                    "Durability": 7,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                }
+            }
+        },
+
+        
+        {
+            "Name": "Hammer",
+            "Base Upgrade": {
+                "Level": 1,
+                "Cost": 1
+            },
+            "Base Cost": {
+                "Wood": 2.4
+            },
+            "Base Effect": {
+                "Input": -0.05,
+                "Output": 0.05
+            },
+            "Production Points": 0,
+            "Requirements": {
+                "Wood": 10
+            },
+            "Models": {
+                "Bone": {
+                    "Extra Cost": {
+                        "Bone": 3.1
+                    },
+                    "Quantity": 0,
+                    "Durability": 200,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Wood": {
+                    "Extra Cost": {
+                        "Wood": 3.9
+                    },
+                    "Quantity": 0,
+                    "Durability": 4,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Stone": {
+                    "Extra Cost": {
+                        "Stone": 5.0
+                    },
+                    "Quantity": 0,
+                    "Durability": 5,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Bronze": {
+                    "Extra Cost": {
+                        "Bronze": 6.3
+                    },
+                    "Quantity": 0,
+                    "Durability": 6,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Iron": {
+                    "Extra Cost": {
+                        "Iron": 7.4
+                    },
+                    "Quantity": 0,
+                    "Durability": 7,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                }
+            }
+        },
+
+        
+        {
+            "Name": "Net",
+            "Base Upgrade": {
+                "Level": 1,
+                "Cost": 1
+            },
+            "Base Cost": {
+                "Wood": 2.4
+            },
+            "Base Effect": {
+                "Input": -0.05,
+                "Output": 0.05
+            },
+            "Production Points": 0,
+            "Requirements": {
+                "Wood": 10
+            },
+            "Models": {
+                "Bone": {
+                    "Extra Cost": {
+                        "Bone": 3.1
+                    },
+                    "Quantity": 0,
+                    "Durability": 200,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Wood": {
+                    "Extra Cost": {
+                        "Wood": 3.9
+                    },
+                    "Quantity": 0,
+                    "Durability": 4,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Stone": {
+                    "Extra Cost": {
+                        "Stone": 5.0
+                    },
+                    "Quantity": 0,
+                    "Durability": 5,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Bronze": {
+                    "Extra Cost": {
+                        "Bronze": 6.3
+                    },
+                    "Quantity": 0,
+                    "Durability": 6,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Iron": {
+                    "Extra Cost": {
+                        "Iron": 7.4
+                    },
+                    "Quantity": 0,
+                    "Durability": 7,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                }
+            }
+        },
+
+        
+        {
+            "Name": "Hatchet",
+            "Base Upgrade": {
+                "Level": 1,
+                "Cost": 1
+            },
+            "Base Cost": {
+                "Wood": 2.4
+            },
+            "Base Effect": {
+                "Input": -0.05,
+                "Output": 0.05
+            },
+            "Production Points": 0,
+            "Requirements": {
+                "Wood": 10
+            },
+            "Models": {
+                "Bone": {
+                    "Extra Cost": {
+                        "Bone": 3.1
+                    },
+                    "Quantity": 0,
+                    "Durability": 200,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Wood": {
+                    "Extra Cost": {
+                        "Wood": 3.9
+                    },
+                    "Quantity": 0,
+                    "Durability": 4,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Stone": {
+                    "Extra Cost": {
+                        "Stone": 5.0
+                    },
+                    "Quantity": 0,
+                    "Durability": 5,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Bronze": {
+                    "Extra Cost": {
+                        "Bronze": 6.3
+                    },
+                    "Quantity": 0,
+                    "Durability": 6,
+                    "Extra Effect": {
+                        "Input": -0.02,
+                        "Output": 0.02
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                },
+                "Iron": {
+                    "Extra Cost": {
+                        "Iron": 7.4
+                    },
+                    "Quantity": 0,
+                    "Durability": 7,
+                    "Extra Effect": {
+                        "Input": -0.14,
+                        "Output": 0.14
+                    },
+                    "Upgrade": {
+                        "Level": 1,
+                        "Cost": 1
+                    }
+                }
+            }
+        }
+
+        
+
+    ]
+}

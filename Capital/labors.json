@@ -1,0 +1,72 @@
+{
+    "labors": [
+        {
+            "id": "hunt1",
+            "Name": "Hunt",
+            "Input": {
+                "Meat": 1.9,
+                "Wood": 0.7
+            },
+            "Output": {
+                "Meat": 2.4,
+                "Bone": 0.9,
+                "Pelt": 0.2
+            },
+            "Tools": {}
+        }, 
+        {
+            "id": "gatherfruit1",
+            "Name": "Gather Fruit",
+            "Input": {
+            },
+            "Output": {
+                "Fruit": 0.5
+            },
+            "Tools": {}
+        },
+        {
+            "id": "gatherfruit1",
+            "Name": "Gather Wood",
+            "Input": {
+            },
+            "Output": {
+                "Wood": 0.4
+            },
+            "Tools": {}
+        },
+        {
+            "id": "gatherfruit1",
+            "Name": "Fell Tree",
+            "Input": {
+                "Wood": 0.3
+            },
+            "Output": {
+                "Wood": 1.1
+            },
+            "Tools": {}
+        },
+        {
+            "id": "gatherfruit1",
+            "Name": "Plant Vegetables",
+            "Input": {
+                "Vegetables": 0.5
+            },
+            "Output": {
+                "Vegetables": 0.65
+            },
+            "Tools": {}
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+

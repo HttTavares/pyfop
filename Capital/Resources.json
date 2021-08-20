@@ -1,0 +1,144 @@
+{
+    "Resources": [
+        {
+            "Name": "Wood",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "construction",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Fruit",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Food",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Vegetables",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Food",
+            "requirements": "none"
+        },
+        {
+            "Name": "Seeds",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Food",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Meat",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Food",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Cereal",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Food",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Root",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Food",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Bone",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Construction",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Wood",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Construction",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Obsidian",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Construction",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Stone",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Construction",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Bronze",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Construction",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Iron",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Construction",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Water",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Construction",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Fiber",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Construction",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Oil",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Construction",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Clay",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Construction",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Limestone",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Construction",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Pelt",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Construction",
+            "Requirements": "none"
+        },
+        {
+            "Name": "Herbs",
+            "Available": 100,
+            "Capacity": 200,
+            "Resource Category": "Construction",
+            "Requirements": "none"
+        }
+    ]
+}
