@@ -2,7 +2,6 @@ from Capital.production import Production
 
 production = Production({
     'Resources': [
-
     ]
 })
 
